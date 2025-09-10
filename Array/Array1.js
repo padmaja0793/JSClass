@@ -1,5 +1,7 @@
 //Array is collection of data.
 
+//Basic Methods
+
 
  var student = ["a","b","c"];  
  console.log(student[0]);

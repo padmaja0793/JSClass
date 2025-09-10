@@ -12,6 +12,10 @@ let Prom1 = new Promise((resolve, reject) => {
     }
 });
 
+
+
+
+
 //using Promise
 Prom
     .then(result => console.log(result))   //If Success
